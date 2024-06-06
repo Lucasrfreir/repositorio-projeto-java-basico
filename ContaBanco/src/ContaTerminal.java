@@ -1,9 +1,8 @@
-
 import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        //TODO: conhecer e importar a classe Scanner
+     //TODO: conhecer e importar a classe Scanner
         /*PROJETO BASICO SOBRE DADOS BANCARIOS
          * @Author:LUCASFREIRE
          * @Since: 1.0
